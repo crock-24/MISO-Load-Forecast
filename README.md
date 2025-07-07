@@ -51,4 +51,4 @@ The analysis involves fitting deterministic seasonal models, assessing residuals
 
 ## Usage
 
-- Required R packages are installed: `TSA`, `dplyr`, `lubridate`, `tseries`
+- Required R packages should be installed: `TSA`, `dplyr`, `lubridate`, `tseries`
